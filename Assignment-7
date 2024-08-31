@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Media Example</title>
+</head>
+<body>
+
+
+    <h1 align="center">Media Player Showcase</h1>
+
+    <section>
+  
+        <table background="images/background.jpg" border="1" width="100%" cellspacing="0" cellpadding="10">
+            <tr>
+                <td colspan="2" align="center"><b>Audio Player: Good Vibes English Songs</b></td>
+            </tr>
+            <tr>
+                <td width="30%">
+           
+                    <p><i>Get ready to feel good with our selection of uplifting English songs that are perfect for boosting your mood and spreading positive energy! These tracks feature a mix of catchy melodies, inspiring lyrics, and feel-good vibes to brighten your day. Hit play, sit back, and let the music elevate your spirit.</i></p>
+          
+                    <img src="images/music-note.jpg" alt="Music Note" width="100">
+                </td>
+                <td width="70%" align="center">
+ 
+                    <audio controls>
+                        <source src="/images/song.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+   
+                    <img src="/images/vibes.jpeg" alt="Good Vibes" width="100">
+                </td>
+            </tr>
+        </table>
+    </section>
+
+    <br>
+
+
+    <section>
+      <table border="1" width="100%" cellspacing="0" cellpadding="10">
+          <tr>
+              <td colspan="2" align="center"><b>Video Player: Inspiring Content</b></td>
+          </tr>
+          <tr>
+              <td width="30%">
+   
+                  <p><i>Watch an inspiring video that showcases powerful content to elevate your spirit and motivate you throughout your day.</i></p>
+              </td>
+              <td width="70%" align="center">
+
+                  <iframe width="320" height="240" 
+                      src="https://www.youtube.com/embed/PGUdWfB8nLg?si=AAfjPfZNDN_yMbZb" 
+                      frameborder="0" 
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                      allowfullscreen>
+                  </iframe>
+              </td>
+          </tr>
+      </table>
+  </section>
+
+    <footer align="center">
+        <p>&copy; 2024 Media Showcase. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
