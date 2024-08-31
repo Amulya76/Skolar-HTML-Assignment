@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image with Caption and Source Link</title>
+</head>
+<body>
+    <div>
+        <img src="/images/demon.jpg" alt="Placeholder Image" width="400">
+        <p>DEMON SLAYER</p>
+        <a href="https://www.imdb.com/title/tt9335498/" target="_blank">Source of the Image</a>
+    </div>
+    <hr>
+    <div>
+        <h2>About the Image</h2>
+        <p>This image is from the popular anime "Demon Slayer," known for its stunning animation and captivating story. The series has gained a huge following worldwide and has won numerous awards for its artistic excellence.</p>
+    </div>
+    <hr>
+    <div>
+        <h2>Related Links</h2>
+        <ul>
+            <li><a href="https://www.crunchyroll.com/demon-slayer" target="_blank">Watch "Demon Slayer" on Crunchyroll</a></li>
+            <li><a href="https://www.myanimelist.net/anime/38000/Demon_Slayer_Kimetsu_no_Yaiba" target="_blank">MyAnimeList - Demon Slayer</a></li>
+            <li><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20921" target="_blank">Anime News Network - Demon Slayer</a></li>
+        </ul>
+    </div>
+    <hr>
+    <div>
+        <h2>Feedback</h2>
+        <p>We would love to hear your thoughts about the image and the series. Feel free to leave a comment or share your favorite moments from the show!</p>
+        <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+            <label for="comment">Comment:</label><br>
+            <textarea id="comment" name="comment" rows="4" cols="50" required></textarea><br><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>
