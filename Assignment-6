@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic HTML Example with Demon Slayer Content</title>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <table>
+                <tr>
+                    <td><a href="#home">Home</a></td>
+                    <td><a href="#about">About</a></td>
+                    <td><a href="#contact">Contact</a></td>
+                </tr>
+            </table>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <header>
+                <h1>Understanding the Breathing Techniques in Demon Slayer</h1>
+            </header>
+            <p>"Demon Slayer" or "Kimetsu no Yaiba" is a popular anime and manga series that introduces a unique set of swordsmanship skills known as Breathing Techniques. These techniques are derived from various elements of nature, providing the Demon Slayers with enhanced abilities to combat demons.</p>
+            <p>Each Breathing Technique is distinct, with its own set of forms, strengths, and weaknesses. Let's explore some of the most iconic techniques:</p>
+            <ul>
+                <li><strong>Water Breathing:</strong> Known for its fluid and flexible movements, Water Breathing mimics the flow of water to adapt to any battle situation.</li>
+                <li><strong>Thunder Breathing:</strong> Focuses on quick, lightning-fast attacks. It's known for its speed and precision, often catching enemies off guard.</li>
+                <li><strong>Beast Breathing:</strong> A wild and unpredictable style that mirrors the instincts and raw power of a beast. It's used by Inosuke Hashibira, who developed this style himself.</li>
+                <li><strong>Sun Breathing:</strong> The original Breathing Technique from which all other techniques are derived. It embodies the strength of the sun and is known for its powerful and versatile attacks.</li>
+            </ul>
+        </article>
+    </main>
+
+    <aside>
+        <h2>Character Profile: Tanjiro Kamado</h2>
+        <p><img src="/images/demon.jpg" alt="Tanjiro Kamado" style="width:100px;height:auto;"></p>
+        <p><strong>Name:</strong> Tanjiro Kamado</p>
+        <p><strong>Role:</strong> Protagonist, Demon Slayer</p>
+        <p><strong>Breathing Technique:</strong> Water Breathing, Sun Breathing</p>
+        <p>Tanjiro Kamado is a compassionate and determined Demon Slayer whose goal is to find a cure for his sister Nezuko, who has been turned into a demon. Tanjiro is known for his keen sense of smell, which aids him in tracking demons.</p>
+    </aside>
+
+    <footer>
+        <p>Contact us at: <a href="mailto:info@example.com">info@example.com</a></p>
+        <p>&copy; 2024 Example Company. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
