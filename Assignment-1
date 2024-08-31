@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amulya Pallikonda's Profile</title>
+</head>
+<body>
+    <h1>Amulya Pallikonda</h1>
+    <p>Hello! My name is Amulya Pallikonda. I am a web developer passionate about creating innovative and user-friendly web applications. In my free time, I enjoy exploring new technologies and improving my coding skills.</p>
+    
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Reading books, especially fiction and fantasy genres</li>
+        <li>Traveling to new places and experiencing different cultures</li>
+        <li>Watching anime, with a special interest in 'Demon Slayer'</li>
+        <li>Practicing traditional Indian dance forms</li>
+        <li>Experimenting with new recipes in the kitchen</li>
+    </ul>
+
+    <p>To learn more about knowladge, visit my favorite website:</p>
+    <a href="https://www.chatgpt.com" target="_blank">Explore More About Me</a>
+</body>
+</html>
