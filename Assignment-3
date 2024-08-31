@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Schedule</title>
+</head>
+<body>
+    <h1>Weekly Schedule</h1>
+    <table border="1" cellspacing="0" cellpadding="8">
+        <thead>
+            <tr>
+                <th>Time/Day</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+                <th>Sunday</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Morning</td>
+                <td>Gym</td>
+                <td>Work</td>
+                <td>Study</td>
+                <td>Work</td>
+                <td>Gym</td>
+                <td>Relax</td>
+                <td>Family Time</td>
+            </tr>
+            <tr>
+                <td>Afternoon</td>
+                <td>Work</td>
+                <td>Meetings</td>
+                <td>Project</td>
+                <td>Work</td>
+                <td>Client Calls</td>
+                <td>Hobby</td>
+                <td>Outdoor Activities</td>
+            </tr>
+            <tr>
+                <td>Evening</td>
+                <td>Cooking</td>
+                <td>Reading</td>
+                <td>TV</td>
+                <td>Cooking</td>
+                <td>Relax</td>
+                <td>Friends</td>
+                <td>Preparation for Week</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
